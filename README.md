@@ -1,1 +1,1 @@
-# DyadicGenderComposition
+# CNNHyperscanningClassification
